@@ -668,3 +668,7 @@ form .glyphicon {
     -moz-box-shadow: none;
     box-shadow: none;
 }
+#descripcion
+{
+    font-size: 18px;
+}
